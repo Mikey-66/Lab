@@ -1,0 +1,19 @@
+{
+    "name": "mk-8259/lab",
+    "description": "this package is just for test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujie",
+            "email": "liujie@xiaozhu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lab\\": "src/"
+        }
+    }
+}
